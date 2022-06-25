@@ -21,7 +21,7 @@ Backend Developer Wannabe
 - ('14.03. - '21.02.) 충남대학교 컴퓨터공학 학사
 - ('19.12. - '20.02.) KRISO Data Science Internship (CNU Baekma Internship)
 - ('21.11. - now) ???
-- 
+
 
 ## Interests 👀
 - Algorithm
