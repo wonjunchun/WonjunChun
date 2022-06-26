@@ -31,3 +31,4 @@ Backend Developer Wannabe
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunChun&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjunChun&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chunjh1103)](https://solved.ac/chunjh1103/)
