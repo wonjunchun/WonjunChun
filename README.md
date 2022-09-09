@@ -16,12 +16,13 @@ Backend Developer Wannabe
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 원준 Wonjun Chun, Backend Developer Wannabe
+# 원준, Backend Developer Wannabe
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chunjh1103)](https://solved.ac/chunjh1103/)
 ## Profile
 - ('14.03. - '21.02.) 충남대학교 컴퓨터공학 학사
 - ('19.12. - '20.02.) KRISO Data Science Internship (CNU Baekma Internship)
-- ('21.11. - now) ???
+- ('21.11. - '22.09.) ???
+- ('22.10. - now) 취준중...
 
 
 ## Interests 👀
