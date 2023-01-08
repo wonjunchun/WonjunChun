@@ -16,7 +16,7 @@ Backend Developer Wannabe
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 원준, Backend Developer Wannabe
+# Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chunjh1103)](https://solved.ac/chunjh1103/)
 
 
