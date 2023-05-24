@@ -27,5 +27,5 @@ Backend Developer Wannabe
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjunChun&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjunChun&hide=jupyter%20notebook&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjunChun&hide=jupyter%20notebook&count_private=true&theme=tokyonight)](https://github.com/WonjunChun/github-readme-stats)
 
