@@ -35,11 +35,14 @@ Backend Developer Wannabe
   
 <br/>
   <h1>👋Wonjun's Github</h1>
+  <h2>Intro</h2>
+  <p>안녕하세요, 백엔드 개발자 천원준 입니다!</p>
+  <p>Java를 다루고 있으며, Infra 및 Embedded SW도 학습하고 있습니다.</p><br />
   <h2>History</h2>
   2023.01 ~ 2023.12 삼성청년SW아카데미 9기 대전캠퍼스 <br />
   2021.11 ~ 2022.10 국방부 직할 사이버작전사령부 주무관(모의 침투 연구 수행) <br />
   2019.12 ~ 2020.02 선박해양플랜트연구소(KRISO) 백마인턴십(VTS 교신 음성 데이터 텍스트화 및 데이터 분석) <br />
-  2014.03 ~ 2021.02 충남대학교 컴퓨터공학과 <br />
+  2014.03 ~ 2021.02 충남대학교 컴퓨터공학과 <br /><br />
   <h2>Skills</h2>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
