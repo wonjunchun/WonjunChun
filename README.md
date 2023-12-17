@@ -36,8 +36,8 @@ Backend Developer Wannabe
 <br/>
   <h1>👋Wonjun's Github</h1>
   <h2>Intro</h2>
-  <p>안녕하세요, 백엔드 개발자 천원준 입니다!</p>
-  <p>Java를 다루고 있으며, Infra 및 Embedded SW도 학습하고 있습니다.</p><br />
+  <p>안녕하세요, 협업에 최적화된 백엔드 개발자 천원준 입니다!</p>
+  <p>Java 및 Spring Framework를 다루고 있으며, Infra 및 Embedded SW도 학습하고 있습니다.</p><br />
   <h2>History</h2>
   2023.01 ~ 2023.12 삼성청년SW아카데미 9기 대전캠퍼스 <br />
   2021.11 ~ 2022.10 국방부 직할 사이버작전사령부 주무관(모의 침투 연구 수행) <br />
