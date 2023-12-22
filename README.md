@@ -59,6 +59,9 @@ Backend Developer Wannabe
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
   <br/>
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Opencv-A9A9A9?style=flat&logo=Opencv&logoColor=white"/>
   
   <br/><br/>
