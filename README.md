@@ -77,4 +77,7 @@ Backend Developer Wannabe
  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chunjh1103)](https://solved.ac/chunjh1103/)
   
+  <br/>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjunchun%2Fhit-counter&count_bg=%2371D5FF&title_bg=%237DE9CD&icon=&icon_color=%23FFDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
