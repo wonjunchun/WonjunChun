@@ -66,8 +66,7 @@ Backend Developer Wannabe
   <br/><br/>
   
   <h2>Blog & Stats</h2>
-  <a href="https://seinenim.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=orange"/></a><br />
-  <a href="https://www.linkedin.com/in/wonjun-chun-970257126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%ec%a0%95%ec%9a%b0-%ec%86%90-87172b243" height="30" width="40" /></a>
+ 
   
  <br/><br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjunChun&hide=jupyter%20notebook,CSS&count_private=true&theme=tokyonight)](https://github.com/WonjunChun/github-readme-stats)
