@@ -74,7 +74,6 @@ Backend Developer Wannabe
 
  <br/>
  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chunjh1103)](https://solved.ac/chunjh1103/)
   
   <br/>
   
