@@ -34,9 +34,9 @@ Backend Developer Wannabe
 <div align=center>
   
 <br/>
-  <h1>👋Wonjun's Github</h1>
+  <h1>Wonjun's Github</h1>
   <h2>Intro</h2>
-  <p>문제해결에 특화된 개발자 천원준 입니다!</p>
+  <p>문제해결에 특화된 개발자 천원준 입니다.</p>
   <p>Spring Framework 기반의 백엔드 개발 및 인프라 역량을 보유하고 있습니다.</p><br />
   <h2>History</h2>
   2024.07 ~ 한국조폐공사 <br />
