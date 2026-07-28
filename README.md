@@ -37,7 +37,7 @@ Backend Developer Wannabe
   <h1>Wonjun's Github</h1>
   <h2>Intro</h2>
   <p>백엔드 개발자에서 인프라 장인까지</p>
-  <p>서버/NW/보안장비 운영. ISMS 수검 경험 보유</p><br />
+  <p>지급결제시스템 서버/NW/보안장비 운영, ISMS 수검 경험 보유</p><br />
   <h2>History</h2>
   2024.07 ~ 한국조폐공사 디지털인프라부(디지털온누리상품권 서버/NW/보안장비 운영) <br />
   2023.01 ~ 2023.12 삼성청년SW아카데미 9기 대전캠퍼스 <br />
