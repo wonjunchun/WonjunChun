@@ -42,7 +42,7 @@ Backend Developer Wannabe
   2024.07 ~ 한국조폐공사 디지털인프라부(디지털온누리상품권 서버/NW/보안장비 운영) <br />
   2023.01 ~ 2023.12 삼성청년SW아카데미 9기 대전캠퍼스 <br />
   2021.11 ~ 2022.10 사이버작전사령부(침투테스트 연구(시스템 해킹)) <br />
-  2019.12 ~ 2020.02 선박해양플랜트연구소(KRISO) 백마인턴십(VTS 교신 음성 데이터 텍스트화 및 데이터 분석) <br />
+  2019.12 ~ 2020.02 선박해양플랜트연구소(KRISO) 인턴십(VTS 교신 음성 데이터 텍스트화 및 데이터 분석) <br />
   2014.03 ~ 2021.02 충남대학교 컴퓨터공학과 <br /><br />
   <h2>Skills</h2>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
